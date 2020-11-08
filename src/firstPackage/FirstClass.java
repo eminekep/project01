@@ -14,6 +14,8 @@ public class FirstClass {
 		System.out.println("conflict from remote master branch ");
 		
 		System.out.println("conflict from remote master branch ");
+		System.out.println("watch out remote master branch ");
+		System.out.println("watch out remote master branch ");
 		
 		
 		

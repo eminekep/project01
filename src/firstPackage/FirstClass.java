@@ -10,6 +10,8 @@ public class FirstClass {
 		
 		System.out.println("second commit from remote master branch ");
 		System.out.println("First commit from remote master branch ");
+		System.out.println("Third commit from remote master branch ");
+		
 		
 		
 		
